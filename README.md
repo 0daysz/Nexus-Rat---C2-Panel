@@ -1,3 +1,6 @@
+
+<img width="899" height="521" alt="C2" src="https://github.com/user-attachments/assets/bc74982c-c921-4051-a19c-30986cacdc49" />
+
 # Nexus-Rat---C2-Panel
 
 Both coded from scratch by me - in Rust/C#/C++/Python
